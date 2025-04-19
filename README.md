@@ -93,7 +93,7 @@ If you find this project helpful, please consider citing:
   title={MTPhysics: Try to Improve the Knowledge Extraction Ability of LLMs by Using Multi-token-prediction},
   author={Leqi Lei},
   year={2025},
-  url={https://github.com/leileqithu/MTPhysics}
+  url={https://github.com/leileqiTHU/MTPhysics}
 }
 ```
 
