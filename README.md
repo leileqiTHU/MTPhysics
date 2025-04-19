@@ -1,7 +1,6 @@
 # MTPhysics
 
 **MTPhysics: Try to Improve the Knowledge Extraction Ability of LLMs by Using Multi-token-prediction**  
-Author: **Leqi Lei**
 
 This repository provides a minimal reproduction of the *Knowledge Extraction* experiment described in the paper [*Physics of Language Models: Part 3.1, Knowledge Storage and Extraction*](https://arxiv.org/abs/2309.14316).
 
